@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 SIte feito para gerenciar hábitos do dia a dia ,visando ter uma boa visualização de 
 
+- [Visite o projeto online](https://matheusgrz141.github.io/Habits)
 
 ## :memo: Licença
 
